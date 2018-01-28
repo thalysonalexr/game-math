@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1476226681 source:c:\users\thalyson\desktop\gamemath\main.cpp
+	"header_math.h"
+
+1476232515 c:\users\thalyson\desktop\gamemath\header_math.h
+	<iostream>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1476227457 source:c:\users\thalyson\desktop\gamemath\metods_game.cpp
+	"header_math.h"
+
+1476120061 source:c:\users\thalyson\desktop\gamemath\metods_jogador.cpp
+	"header_math.h"
+
+1476233164 source:c:\users\thalyson\desktop\gamemath\metods_main.cpp
+	"header_math.h"
+
